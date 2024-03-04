@@ -1,0 +1,7 @@
+For local repo:
+Create a folder by mkdir and then change git directory to that by cd <Folder name>
+git init: To initialize a repo
+Create a repo in github manually
+git remote add origin <link to repo>
+To verify (optional): git remote -v
+git branch: To know current branch
